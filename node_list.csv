@@ -1,0 +1,170 @@
+Count,ID,Label,shares,total_angry,total_haha,total_love,total_sad,total_wow,total_reactions,positive_reactions,negative_reactions,sentiment,subject_class,subject_superclass
+12.0,0.0,cardiology,1293.0,2.0,14.0,106.0,3.0,108.0,233.0,214.0,5.0,0.8969957081545065,Medicine and Health,Applied Sciences
+322.0,1.0,medicine,47120.0,988.0,202.0,3117.0,1475.0,4558.0,10340.0,7675.0,2463.0,0.5040618955512572,Medicine and Health,Applied Sciences
+363.0,2.0,health sciences,42632.0,779.0,210.0,3356.0,1010.0,3428.0,8783.0,6784.0,1789.0,0.5687122850962086,Medicine and Health,Applied Sciences
+9.0,3.0,cardiovascular medicine and haematology,1050.0,2.0,14.0,88.0,3.0,108.0,215.0,196.0,5.0,0.8883720930232558,Medicine and Health,Applied Sciences
+17.0,4.0,internalmedicine,1440.0,1.0,4.0,79.0,13.0,45.0,142.0,124.0,14.0,0.7746478873239436,Medicine and Health,Applied Sciences
+45.0,5.0,"biochemistry, genetics and molecular biology",5764.0,38.0,26.0,447.0,143.0,300.0,954.0,747.0,181.0,0.5932914046121593,Biology,Natural Sciences
+68.0,6.0,life sciences,13676.0,134.0,42.0,6869.0,334.0,952.0,8331.0,7821.0,468.0,0.882607129996399,Medicine and Health,Applied Sciences
+119.0,7.0,medical and health sciences,18877.0,440.0,66.0,1211.0,546.0,1734.0,3997.0,2945.0,986.0,0.49011758819114337,Medicine and Health,Applied Sciences
+45.0,8.0,general,11048.0,4145.0,197.0,944.0,2879.0,1321.0,9486.0,2265.0,7024.0,-0.5016866961838499,,
+13.0,9.0,publichealth,663.0,23.0,1.0,24.0,132.0,55.0,235.0,79.0,155.0,-0.32340425531914896,Medicine and Health,Applied Sciences
+69.0,10.0,science,23042.0,3451.0,161.0,3297.0,2667.0,2501.0,12077.0,5798.0,6118.0,-0.026496646518175043,,
+23.0,11.0,psychiatry,2530.0,8.0,17.0,556.0,34.0,169.0,784.0,725.0,42.0,0.8711734693877551,Medicine and Health,Applied Sciences
+29.0,12.0,agricultural and biological sciences,8941.0,108.0,27.0,6567.0,294.0,798.0,7794.0,7365.0,402.0,0.8933795227097767,Biology,Natural Sciences
+5.0,13.0,zoology,6284.0,6.0,11.0,6042.0,11.0,459.0,6529.0,6501.0,17.0,0.9931076734568847,Biology,Natural Sciences
+38.0,14.0,nursing,6202.0,8.0,37.0,635.0,14.0,235.0,929.0,870.0,22.0,0.9128094725511302,Medicine and Health,Applied Sciences
+66.0,15.0,multidisciplinary,4592.0,170.0,132.0,570.0,252.0,735.0,1859.0,1305.0,422.0,0.47498655190962885,,
+14.0,16.0,behavioralsciences,1343.0,3.0,21.0,207.0,2.0,89.0,322.0,296.0,5.0,0.9037267080745341,Psychology,Social Sciences
+21.0,17.0,nutritionalsciences,2278.0,7.0,33.0,340.0,6.0,92.0,478.0,432.0,13.0,0.8765690376569037,Nutritional science,Applied Sciences
+24.0,18.0,social sciences,791.0,3.0,83.0,132.0,2.0,55.0,275.0,187.0,5.0,0.6618181818181819,,Social Sciences
+22.0,19.0,psychology,4140.0,11.0,24.0,1146.0,40.0,310.0,1531.0,1456.0,51.0,0.9177008491182234,Psychology,Social Sciences
+6.0,20.0,psychophysiology,278.0,0.0,0.0,11.0,0.0,5.0,16.0,16.0,0.0,1.0,Medicine and Health,Applied Sciences
+41.0,21.0,neurology,5211.0,28.0,15.0,280.0,70.0,555.0,948.0,835.0,98.0,0.7774261603375527,Medicine and Health,Applied Sciences
+4.0,22.0,"pharmacology, toxicology and pharmaceutics",193.0,1.0,1.0,8.0,7.0,3.0,20.0,11.0,8.0,0.15,Medicine and Health,Applied Sciences
+9.0,23.0,neuroscience,830.0,1.0,0.0,45.0,2.0,32.0,80.0,77.0,3.0,0.925,Medicine and Health,Applied Sciences
+4.0,24.0,sportsmedicine,491.0,0.0,0.0,10.0,0.0,6.0,16.0,16.0,0.0,1.0,Medicine and Health,Applied Sciences
+4.0,25.0,orthopedics,391.0,0.0,0.0,7.0,0.0,6.0,13.0,13.0,0.0,1.0,Medicine and Health,Applied Sciences
+4.0,26.0,physicalandrehabilitationmedicine,391.0,0.0,0.0,17.0,0.0,3.0,20.0,20.0,0.0,1.0,Medicine and Health,Applied Sciences
+12.0,27.0,health professions,786.0,0.0,1.0,33.0,0.0,16.0,50.0,49.0,0.0,0.98,Medicine and Health,Applied Sciences
+76.0,28.0,clinical sciences,7146.0,8.0,21.0,386.0,51.0,547.0,1013.0,933.0,59.0,0.8627838104639685,Medicine and Health,Applied Sciences
+19.0,29.0,pediatrics,920.0,4.0,2.0,53.0,15.0,14.0,88.0,67.0,19.0,0.5454545454545454,Medicine and Health,Applied Sciences
+1.0,30.0,biotechnology,115.0,0.0,0.0,15.0,0.0,9.0,24.0,24.0,0.0,1.0,Biology,Natural Sciences
+2.0,31.0,chemical engineering,117.0,0.0,0.0,15.0,0.0,9.0,24.0,24.0,0.0,1.0,Chemistry,Natural Sciences
+110.0,32.0,physical sciences,13435.0,149.0,301.0,3578.0,268.0,2460.0,6756.0,6038.0,417.0,0.8320011841326228,Physics,Natural Sciences
+3.0,33.0,engineering,129.0,0.0,0.0,20.0,0.0,10.0,30.0,30.0,0.0,1.0,Engineering,Applied Sciences
+6.0,34.0,immunology and microbiology,1421.0,16.0,8.0,121.0,16.0,84.0,245.0,205.0,32.0,0.7061224489795919,Medicine and Health,Applied Sciences
+1.0,35.0,next-generation sequencing,115.0,0.0,0.0,15.0,0.0,9.0,24.0,24.0,0.0,1.0,Biology,Natural Sciences
+4.0,36.0,genetics,624.0,0.0,0.0,55.0,0.0,17.0,72.0,72.0,0.0,1.0,Biology,Natural Sciences
+2.0,37.0,cancer,650.0,0.0,1.0,39.0,0.0,26.0,66.0,65.0,0.0,0.9848484848484849,Medicine and Health,Applied Sciences
+5.0,38.0,substancerelateddisorders,166.0,1.0,3.0,13.0,7.0,3.0,27.0,16.0,8.0,0.2962962962962963,Medicine and Health,Applied Sciences
+8.0,39.0,nutrition and dietetics,378.0,1.0,1.0,43.0,0.0,8.0,53.0,51.0,1.0,0.9433962264150944,Nutritional science,Applied Sciences
+7.0,40.0,chemistry,611.0,1.0,3.0,175.0,3.0,36.0,218.0,211.0,4.0,0.9495412844036697,Chemistry,Natural Sciences
+6.0,41.0,chemical sciences,803.0,47.0,16.0,125.0,14.0,36.0,238.0,161.0,61.0,0.42016806722689076,Chemistry,Natural Sciences
+5.0,42.0,biomedicine,544.0,20.0,1.0,7.0,55.0,18.0,101.0,25.0,75.0,-0.49504950495049505,Medicine and Health,Applied Sciences
+2.0,43.0,astronomical and space sciences,43.0,0.0,0.0,4.0,4.0,2.0,10.0,6.0,4.0,0.2,Astrophysics,Natural Sciences
+49.0,44.0,environmentalhealth,2763.0,412.0,14.0,503.0,453.0,767.0,2149.0,1270.0,865.0,0.18845974872033505,Medicine and Health,Applied Sciences
+7.0,45.0,ecological applications,407.0,1.0,1.0,106.0,24.0,152.0,284.0,258.0,25.0,0.8204225352112676,Biology,Natural Sciences
+6.0,46.0,neoplasms,586.0,1.0,7.0,68.0,2.0,12.0,90.0,80.0,3.0,0.8555555555555555,Medicine and Health,Applied Sciences
+5.0,47.0,oncology and carcinogenesis,640.0,1.0,7.0,77.0,13.0,13.0,111.0,90.0,14.0,0.6846846846846847,Medicine and Health,Applied Sciences
+3.0,48.0,complementarytherapies,180.0,0.0,0.0,22.0,0.0,14.0,36.0,36.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,49.0,complementary and alternative medicine,180.0,0.0,0.0,22.0,0.0,14.0,36.0,36.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,50.0,economics,107.0,0.0,65.0,27.0,1.0,9.0,102.0,36.0,1.0,0.3431372549019608,Economics,Social Sciences
+7.0,51.0,communicablediseases,375.0,3.0,39.0,8.0,13.0,118.0,181.0,126.0,16.0,0.6077348066298343,Medicine and Health,Applied Sciences
+3.0,52.0,medical microbiology,185.0,1.0,39.0,3.0,7.0,106.0,156.0,109.0,8.0,0.6474358974358975,Biology,Natural Sciences
+8.0,53.0,archaeology,201.0,0.0,16.0,13.0,1.0,50.0,80.0,63.0,1.0,0.775,Archaeology,Social Sciences
+1.0,54.0,sleep,108.0,0.0,0.0,9.0,0.0,0.0,9.0,9.0,0.0,1.0,Medicine and Health,Applied Sciences
+14.0,55.0,biology,2215.0,3.0,16.0,220.0,5.0,158.0,402.0,378.0,8.0,0.9203980099502488,Biology,Natural Sciences
+6.0,56.0,physics and astronomy,1399.0,6.0,78.0,169.0,4.0,182.0,439.0,351.0,10.0,0.7767653758542141,Astrophysics,Natural Sciences
+8.0,57.0,mathematical sciences,3868.0,6.0,83.0,850.0,15.0,268.0,1222.0,1118.0,21.0,0.897708674304419,Mathematics,Formal Sciences
+1.0,58.0,taxonomy,182.0,0.0,4.0,21.0,0.0,22.0,47.0,43.0,0.0,0.9148936170212766,Biology,Natural Sciences
+6.0,59.0,drugtherapy,750.0,214.0,2.0,30.0,53.0,47.0,346.0,77.0,267.0,-0.5491329479768786,Medicine and Health,Applied Sciences
+5.0,60.0,pharmacology and pharmaceutical sciences,664.0,216.0,2.0,20.0,50.0,28.0,316.0,48.0,266.0,-0.689873417721519,Medicine and Health,Applied Sciences
+42.0,61.0,allergyandimmunology,3427.0,15.0,2.0,326.0,18.0,126.0,487.0,452.0,33.0,0.8603696098562629,Medicine and Health,Applied Sciences
+32.0,62.0,immunology,2724.0,0.0,2.0,261.0,3.0,68.0,334.0,329.0,3.0,0.9760479041916168,Medicine and Health,Applied Sciences
+7.0,63.0,physiology,609.0,0.0,0.0,55.0,1.0,156.0,212.0,211.0,1.0,0.9905660377358491,Medicine and Health,Applied Sciences
+1.0,64.0,animal genetics and genomics,237.0,0.0,0.0,4.0,0.0,14.0,18.0,18.0,0.0,1.0,Biology,Natural Sciences
+1.0,65.0,tumour heterogeneity,97.0,0.0,0.0,3.0,0.0,6.0,9.0,9.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,66.0,endocrinology,726.0,0.0,0.0,25.0,0.0,3.0,28.0,28.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,67.0,metabolism,423.0,0.0,0.0,6.0,0.0,3.0,9.0,9.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,68.0,psychopharmacology,82.0,0.0,1.0,26.0,0.0,3.0,30.0,29.0,0.0,0.9666666666666667,Medicine and Health,Applied Sciences
+3.0,69.0,speechlanguagepathology,137.0,0.0,0.0,20.0,0.0,2.0,22.0,22.0,0.0,1.0,Medicine and Health,Applied Sciences
+12.0,70.0,brain,591.0,1.0,0.0,24.0,2.0,23.0,50.0,47.0,3.0,0.88,Medicine and Health,Applied Sciences
+1.0,71.0,risk factors,375.0,1.0,13.0,40.0,1.0,6.0,61.0,46.0,2.0,0.7213114754098361,Medicine and Health,Applied Sciences
+5.0,72.0,human movement and sports science,170.0,0.0,0.0,13.0,0.0,0.0,13.0,13.0,0.0,1.0,Medicine and Health,Applied Sciences
+52.0,73.0,environmental science,3573.0,555.0,24.0,752.0,556.0,658.0,2545.0,1410.0,1111.0,0.11748526522593321,Environmental sciences,Natural Sciences
+3.0,74.0,pathology,92.0,1.0,0.0,0.0,10.0,5.0,16.0,5.0,11.0,-0.375,Medicine and Health,Applied Sciences
+1.0,75.0,medical physiology,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medicine and Health,Applied Sciences
+1.0,76.0,computationalbiology,17.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Biology,Natural Sciences
+1.0,77.0,computer science,17.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Computer science,Formal Sciences
+1.0,78.0,mathematics,17.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Mathematics,Formal Sciences
+24.0,79.0,biological sciences,2115.0,18.0,14.0,180.0,22.0,156.0,390.0,336.0,40.0,0.7589743589743589,Biology,Natural Sciences
+5.0,80.0,epidemiology,200.0,0.0,14.0,9.0,12.0,23.0,58.0,32.0,12.0,0.3448275862068966,Medicine and Health,Applied Sciences
+5.0,81.0,generalsurgery,186.0,0.0,0.0,10.0,0.0,2.0,12.0,12.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,82.0,ophthalmology,101.0,2.0,1.0,5.0,0.0,5.0,13.0,10.0,2.0,0.6153846153846154,Medicine and Health,Applied Sciences
+6.0,83.0,pharmacology,420.0,2.0,0.0,44.0,7.0,20.0,73.0,64.0,9.0,0.7534246575342466,Medicine and Health,Applied Sciences
+4.0,84.0,gastroenterology,354.0,0.0,0.0,29.0,5.0,16.0,50.0,45.0,5.0,0.8,Medicine and Health,Applied Sciences
+1.0,85.0,type 2 diabetes,93.0,0.0,0.0,4.0,0.0,1.0,5.0,5.0,0.0,1.0,Medicine and Health,Applied Sciences
+6.0,86.0,neurosciences,273.0,28.0,0.0,23.0,53.0,45.0,149.0,68.0,81.0,-0.087248322147651,Medicine and Health,Applied Sciences
+7.0,87.0,healthservicesresearch,331.0,8.0,6.0,11.0,9.0,74.0,108.0,85.0,17.0,0.6296296296296297,Medicine and Health,Applied Sciences
+15.0,88.0,public health and health services,579.0,25.0,6.0,32.0,12.0,81.0,156.0,113.0,37.0,0.48717948717948717,Medicine and Health,Applied Sciences
+24.0,89.0,environmental sciences,731.0,111.0,3.0,333.0,211.0,17.0,675.0,350.0,322.0,0.04148148148148148,Environmental sciences,Natural Sciences
+6.0,90.0,obstetrics,252.0,0.0,0.0,35.0,0.0,13.0,48.0,48.0,0.0,1.0,Medicine and Health,Applied Sciences
+5.0,91.0,veterinary,230.0,15.0,1.0,5.0,15.0,27.0,63.0,32.0,30.0,0.031746031746031744,Medicine and Health,Applied Sciences
+3.0,92.0,gynecology,34.0,0.0,0.0,2.0,0.0,0.0,2.0,2.0,0.0,1.0,Biology,Natural Sciences
+2.0,93.0,perinatology,158.0,0.0,0.0,15.0,0.0,13.0,28.0,28.0,0.0,1.0,Medicine and Health,Applied Sciences
+4.0,94.0,molecularbiology,497.0,0.0,0.0,59.0,0.0,21.0,80.0,80.0,0.0,1.0,Biology,Natural Sciences
+1.0,95.0,geneticsmedical,102.0,0.0,0.0,3.0,0.0,10.0,13.0,13.0,0.0,1.0,Biology,Natural Sciences
+2.0,96.0,allergology,177.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+4.0,97.0,geriatrics,90.0,0.0,0.0,14.0,0.0,0.0,14.0,14.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,98.0,socialsciences,34.0,0.0,0.0,18.0,0.0,0.0,18.0,18.0,0.0,1.0,,Social Sciences
+1.0,99.0,dyslipidaemias,320.0,0.0,0.0,19.0,0.0,3.0,22.0,22.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,100.0,cognitive science,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Psychology,Social Sciences
+1.0,101.0,protein vaccines,14.0,0.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,1.0,Biology,Natural Sciences
+2.0,102.0,rheumatology,27.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+3.0,103.0,analytical chemistry,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Chemistry,Natural Sciences
+1.0,104.0,"classical and quantum gravitation, relativity theory",0.0,1.0,12.0,570.0,3.0,300.0,886.0,870.0,4.0,0.9774266365688488,Physics,Natural Sciences
+1.0,105.0,obesity,14.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medicine and Health,Applied Sciences
+4.0,106.0,criticalcare,716.0,0.0,0.0,15.0,0.0,4.0,19.0,19.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,107.0,anesthesiology,421.0,0.0,0.0,5.0,0.0,3.0,8.0,8.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,108.0,veterinary sciences,26.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,109.0,reproductivemedicine,11.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+5.0,110.0,diagnosticimaging,358.0,0.0,1.0,27.0,0.0,1.0,29.0,28.0,0.0,0.9655172413793104,Medicine and Health,Applied Sciences
+2.0,111.0,radiology,254.0,0.0,0.0,8.0,0.0,0.0,8.0,8.0,0.0,1.0,Medicine and Health,Applied Sciences
+8.0,112.0,cellbiology,905.0,0.0,4.0,58.0,3.0,197.0,262.0,255.0,3.0,0.9618320610687023,Biology,Natural Sciences
+3.0,113.0,biochemistry and cell biology,504.0,0.0,0.0,35.0,2.0,171.0,208.0,206.0,2.0,0.9807692307692307,Biology,Natural Sciences
+1.0,114.0,saxs,704.0,0.0,1.0,61.0,0.0,47.0,109.0,108.0,0.0,0.9908256880733946,Medicine and Health,Applied Sciences
+1.0,115.0,materials science,8.0,0.0,0.0,4.0,0.0,1.0,5.0,5.0,0.0,1.0,Engineering,Applied Sciences
+1.0,116.0,drug development,8.0,0.0,0.0,4.0,0.0,1.0,5.0,5.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,117.0,anxiety,233.0,0.0,0.0,20.0,1.0,2.0,23.0,22.0,1.0,0.9130434782608695,Medicine and Health,Applied Sciences
+2.0,118.0,political science,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Political science,Social Sciences
+1.0,119.0,specialist studies in education,46.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Education,Applied Sciences
+1.0,120.0,high-energy astrophysics,0.0,0.0,0.0,7.0,0.0,11.0,18.0,18.0,0.0,1.0,Physics,Natural Sciences
+2.0,121.0,otolaryngology,143.0,0.0,0.0,8.0,0.0,10.0,18.0,18.0,0.0,1.0,Medicine and Health,Applied Sciences
+4.0,122.0,dermatology,344.0,0.0,0.0,29.0,2.0,10.0,41.0,39.0,2.0,0.9024390243902439,Medicine and Health,Applied Sciences
+1.0,123.0,dementia,59.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,124.0,biochemistry,18.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,0.0,1.0,Biology,Natural Sciences
+1.0,125.0,neurosurgery,22.0,0.0,0.0,2.0,0.0,1.0,3.0,3.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,126.0,organic chemistry,86.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,1.0,Chemistry,Natural Sciences
+1.0,127.0,geriatrics/gerontology,35.0,0.0,0.0,5.0,0.0,0.0,5.0,5.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,128.0,mechanism of action,168.0,0.0,0.0,5.0,0.0,4.0,9.0,9.0,0.0,1.0,Engineering,Applied Sciences
+1.0,129.0,embryology,33.0,0.0,0.0,17.0,0.0,6.0,23.0,23.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,130.0,"banking, finance and investment",0.0,0.0,1.0,0.0,0.0,1.0,2.0,1.0,0.0,0.5,Economics,Social Sciences
+2.0,131.0,healthservices,25.0,0.0,0.0,10.0,1.0,0.0,11.0,10.0,1.0,0.8181818181818182,Medicine and Health,Applied Sciences
+4.0,132.0,ecology,506.0,1.0,2.0,266.0,21.0,273.0,563.0,539.0,22.0,0.9182948490230906,Biology,Natural Sciences
+1.0,133.0,head and neck surgery,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medicine and Health,Applied Sciences
+1.0,134.0,evolutionary biology,39.0,0.0,0.0,15.0,0.0,7.0,22.0,22.0,0.0,1.0,Biology,Natural Sciences
+2.0,135.0,audiology,41.0,0.0,0.0,6.0,0.0,2.0,8.0,8.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,136.0,other medical and health sciences,23.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,137.0,maternal and child health,16.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,138.0,viral infection,33.0,0.0,0.0,1.0,0.0,4.0,5.0,5.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,139.0,osteopathicmedicine,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medicine and Health,Applied Sciences
+2.0,140.0,pulmonarymedicine,50.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,Medicine and Health,Applied Sciences
+2.0,141.0,earth and planetary sciences,4.0,0.0,0.0,1.0,0.0,2.0,3.0,3.0,0.0,1.0,Astrophysics,Natural Sciences
+1.0,142.0,paediatrics and reproductive medicine,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Medicine and Health,Applied Sciences
+1.0,143.0,food sciences,14.0,0.0,0.0,2.0,0.0,1.0,3.0,3.0,0.0,1.0,Nutritional science,Applied Sciences
+2.0,144.0,sociology,10.0,0.0,0.0,3.0,0.0,0.0,3.0,3.0,0.0,1.0,Sociology,Social Sciences
+1.0,145.0,medicine & public health,24.0,0.0,0.0,3.0,0.0,1.0,4.0,4.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,146.0,cosmology,197.0,1.0,19.0,16.0,2.0,9.0,47.0,25.0,3.0,0.46808510638297873,Astrophysics,Natural Sciences
+2.0,147.0,botany,73.0,0.0,0.0,3.0,1.0,21.0,25.0,24.0,1.0,0.92,Biology,Natural Sciences
+1.0,148.0,neural circuits,94.0,1.0,0.0,10.0,0.0,11.0,22.0,21.0,1.0,0.9090909090909091,Medicine and Health,Applied Sciences
+2.0,149.0,education systems,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Education,Applied Sciences
+1.0,150.0,autism spectrum disorders,98.0,1.0,0.0,4.0,0.0,4.0,9.0,8.0,1.0,0.7777777777777778,Medicine and Health,Applied Sciences
+1.0,151.0,animal ecology,67.0,278.0,2.0,33.0,252.0,6.0,571.0,39.0,530.0,-0.8598949211908932,Biology,Natural Sciences
+2.0,152.0,hospitals,93.0,0.0,1.0,4.0,0.0,6.0,11.0,10.0,0.0,0.9090909090909091,Medicine and Health,Applied Sciences
+1.0,153.0,"atomic, molecular, nuclear, particle and plasma physics",21.0,0.0,0.0,1.0,0.0,4.0,5.0,5.0,0.0,1.0,Physics,Natural Sciences
+1.0,154.0,pharmacy,45.0,0.0,0.0,4.0,0.0,1.0,5.0,5.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,155.0,biophysics,6.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Biology,Natural Sciences
+1.0,156.0,biomedicalengineering,6.0,0.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,1.0,Biology,Natural Sciences
+1.0,157.0,biomedical engineering,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Biology,Natural Sciences
+2.0,158.0,nephrology,294.0,0.0,1.0,15.0,0.0,5.0,21.0,20.0,0.0,0.9523809523809523,Medicine and Health,Applied Sciences
+1.0,159.0,electrical and electronic engineering,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Engineering,Applied Sciences
+1.0,160.0,nanoparticles,13.0,0.0,1.0,7.0,0.0,0.0,8.0,7.0,0.0,0.875,Physics,Natural Sciences
+1.0,161.0,alzheimer's disease,128.0,0.0,0.0,7.0,0.0,2.0,9.0,9.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,162.0,diabetic nephropathy,289.0,0.0,1.0,15.0,0.0,5.0,21.0,20.0,0.0,0.9523809523809523,Medicine and Health,Applied Sciences
+1.0,163.0,carbon cycle,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Environmental sciences,Natural Sciences
+1.0,164.0,microbiology,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Biology,Natural Sciences
+1.0,165.0,inflammation,187.0,0.0,0.0,12.0,0.0,0.0,12.0,12.0,0.0,1.0,Medicine and Health,Applied Sciences
+1.0,166.0,artificial intelligence and image processing,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Computer science,Formal Sciences
+1.0,167.0,demography,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Statistics,Formal Sciences
+1.0,168.0,"astronomy, astrophysics and cosmology",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Astrophysics,Natural Sciences

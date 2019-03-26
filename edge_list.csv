@@ -1,0 +1,753 @@
+Source,Source_name,Target,Target_name,Type,Weight
+0.0,cardiology,1.0,medicine,Undirected,10.0
+0.0,cardiology,2.0,health sciences,Undirected,10.0
+0.0,cardiology,3.0,cardiovascular medicine and haematology,Undirected,9.0
+1.0,medicine,2.0,health sciences,Undirected,296.0
+1.0,medicine,3.0,cardiovascular medicine and haematology,Undirected,9.0
+2.0,health sciences,3.0,cardiovascular medicine and haematology,Undirected,9.0
+1.0,medicine,5.0,"biochemistry, genetics and molecular biology",Undirected,46.0
+1.0,medicine,6.0,life sciences,Undirected,51.0
+1.0,medicine,1.0,medicine,Undirected,80.0
+1.0,medicine,7.0,medical and health sciences,Undirected,151.0
+5.0,"biochemistry, genetics and molecular biology",2.0,health sciences,Undirected,30.0
+5.0,"biochemistry, genetics and molecular biology",6.0,life sciences,Undirected,45.0
+5.0,"biochemistry, genetics and molecular biology",7.0,medical and health sciences,Undirected,2.0
+2.0,health sciences,6.0,life sciences,Undirected,37.0
+2.0,health sciences,7.0,medical and health sciences,Undirected,115.0
+6.0,life sciences,7.0,medical and health sciences,Undirected,5.0
+9.0,publichealth,1.0,medicine,Undirected,9.0
+9.0,publichealth,2.0,health sciences,Undirected,13.0
+10.0,science,8.0,general,Undirected,36.0
+11.0,psychiatry,2.0,health sciences,Undirected,21.0
+11.0,psychiatry,7.0,medical and health sciences,Undirected,15.0
+12.0,agricultural and biological sciences,6.0,life sciences,Undirected,29.0
+12.0,agricultural and biological sciences,13.0,zoology,Undirected,4.0
+6.0,life sciences,13.0,zoology,Undirected,4.0
+14.0,nursing,2.0,health sciences,Undirected,36.0
+14.0,nursing,14.0,nursing,Undirected,15.0
+1.0,medicine,10.0,science,Undirected,29.0
+1.0,medicine,12.0,agricultural and biological sciences,Undirected,27.0
+1.0,medicine,15.0,multidisciplinary,Undirected,26.0
+10.0,science,5.0,"biochemistry, genetics and molecular biology",Undirected,13.0
+10.0,science,2.0,health sciences,Undirected,14.0
+10.0,science,6.0,life sciences,Undirected,13.0
+10.0,science,12.0,agricultural and biological sciences,Undirected,13.0
+10.0,science,15.0,multidisciplinary,Undirected,24.0
+5.0,"biochemistry, genetics and molecular biology",12.0,agricultural and biological sciences,Undirected,18.0
+5.0,"biochemistry, genetics and molecular biology",15.0,multidisciplinary,Undirected,13.0
+2.0,health sciences,12.0,agricultural and biological sciences,Undirected,16.0
+2.0,health sciences,15.0,multidisciplinary,Undirected,20.0
+6.0,life sciences,15.0,multidisciplinary,Undirected,15.0
+12.0,agricultural and biological sciences,15.0,multidisciplinary,Undirected,14.0
+16.0,behavioralsciences,17.0,nutritionalsciences,Undirected,3.0
+16.0,behavioralsciences,14.0,nursing,Undirected,3.0
+16.0,behavioralsciences,2.0,health sciences,Undirected,13.0
+16.0,behavioralsciences,18.0,social sciences,Undirected,3.0
+16.0,behavioralsciences,19.0,psychology,Undirected,6.0
+16.0,behavioralsciences,15.0,multidisciplinary,Undirected,3.0
+17.0,nutritionalsciences,14.0,nursing,Undirected,10.0
+17.0,nutritionalsciences,2.0,health sciences,Undirected,14.0
+17.0,nutritionalsciences,18.0,social sciences,Undirected,3.0
+17.0,nutritionalsciences,19.0,psychology,Undirected,3.0
+17.0,nutritionalsciences,15.0,multidisciplinary,Undirected,5.0
+14.0,nursing,18.0,social sciences,Undirected,3.0
+14.0,nursing,19.0,psychology,Undirected,5.0
+14.0,nursing,15.0,multidisciplinary,Undirected,3.0
+2.0,health sciences,18.0,social sciences,Undirected,4.0
+2.0,health sciences,19.0,psychology,Undirected,20.0
+18.0,social sciences,19.0,psychology,Undirected,4.0
+18.0,social sciences,15.0,multidisciplinary,Undirected,3.0
+19.0,psychology,15.0,multidisciplinary,Undirected,3.0
+20.0,psychophysiology,21.0,neurology,Undirected,5.0
+20.0,psychophysiology,2.0,health sciences,Undirected,6.0
+20.0,psychophysiology,6.0,life sciences,Undirected,1.0
+20.0,psychophysiology,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,1.0
+20.0,psychophysiology,1.0,medicine,Undirected,2.0
+20.0,psychophysiology,23.0,neuroscience,Undirected,1.0
+20.0,psychophysiology,7.0,medical and health sciences,Undirected,5.0
+21.0,neurology,2.0,health sciences,Undirected,36.0
+21.0,neurology,6.0,life sciences,Undirected,6.0
+21.0,neurology,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,1.0
+21.0,neurology,1.0,medicine,Undirected,8.0
+21.0,neurology,23.0,neuroscience,Undirected,6.0
+21.0,neurology,7.0,medical and health sciences,Undirected,10.0
+2.0,health sciences,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,3.0
+2.0,health sciences,23.0,neuroscience,Undirected,2.0
+6.0,life sciences,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,4.0
+6.0,life sciences,23.0,neuroscience,Undirected,9.0
+22.0,"pharmacology, toxicology and pharmaceutics",1.0,medicine,Undirected,3.0
+22.0,"pharmacology, toxicology and pharmaceutics",23.0,neuroscience,Undirected,1.0
+22.0,"pharmacology, toxicology and pharmaceutics",7.0,medical and health sciences,Undirected,2.0
+1.0,medicine,23.0,neuroscience,Undirected,2.0
+23.0,neuroscience,7.0,medical and health sciences,Undirected,2.0
+24.0,sportsmedicine,25.0,orthopedics,Undirected,1.0
+24.0,sportsmedicine,26.0,physicalandrehabilitationmedicine,Undirected,1.0
+24.0,sportsmedicine,27.0,health professions,Undirected,4.0
+24.0,sportsmedicine,2.0,health sciences,Undirected,4.0
+24.0,sportsmedicine,28.0,clinical sciences,Undirected,1.0
+25.0,orthopedics,26.0,physicalandrehabilitationmedicine,Undirected,1.0
+25.0,orthopedics,27.0,health professions,Undirected,1.0
+25.0,orthopedics,2.0,health sciences,Undirected,4.0
+25.0,orthopedics,28.0,clinical sciences,Undirected,3.0
+26.0,physicalandrehabilitationmedicine,27.0,health professions,Undirected,2.0
+26.0,physicalandrehabilitationmedicine,2.0,health sciences,Undirected,4.0
+26.0,physicalandrehabilitationmedicine,28.0,clinical sciences,Undirected,3.0
+27.0,health professions,2.0,health sciences,Undirected,12.0
+27.0,health professions,28.0,clinical sciences,Undirected,3.0
+2.0,health sciences,28.0,clinical sciences,Undirected,73.0
+21.0,neurology,28.0,clinical sciences,Undirected,24.0
+1.0,medicine,28.0,clinical sciences,Undirected,37.0
+30.0,biotechnology,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+30.0,biotechnology,31.0,chemical engineering,Undirected,1.0
+30.0,biotechnology,6.0,life sciences,Undirected,1.0
+30.0,biotechnology,32.0,physical sciences,Undirected,1.0
+30.0,biotechnology,33.0,engineering,Undirected,1.0
+30.0,biotechnology,34.0,immunology and microbiology,Undirected,1.0
+30.0,biotechnology,35.0,next-generation sequencing,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",31.0,chemical engineering,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",32.0,physical sciences,Undirected,4.0
+5.0,"biochemistry, genetics and molecular biology",33.0,engineering,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",34.0,immunology and microbiology,Undirected,3.0
+5.0,"biochemistry, genetics and molecular biology",35.0,next-generation sequencing,Undirected,1.0
+31.0,chemical engineering,6.0,life sciences,Undirected,1.0
+31.0,chemical engineering,32.0,physical sciences,Undirected,2.0
+31.0,chemical engineering,33.0,engineering,Undirected,1.0
+31.0,chemical engineering,34.0,immunology and microbiology,Undirected,1.0
+31.0,chemical engineering,35.0,next-generation sequencing,Undirected,1.0
+6.0,life sciences,32.0,physical sciences,Undirected,7.0
+6.0,life sciences,33.0,engineering,Undirected,1.0
+6.0,life sciences,34.0,immunology and microbiology,Undirected,6.0
+6.0,life sciences,35.0,next-generation sequencing,Undirected,1.0
+32.0,physical sciences,33.0,engineering,Undirected,3.0
+32.0,physical sciences,34.0,immunology and microbiology,Undirected,2.0
+32.0,physical sciences,35.0,next-generation sequencing,Undirected,1.0
+33.0,engineering,34.0,immunology and microbiology,Undirected,1.0
+33.0,engineering,35.0,next-generation sequencing,Undirected,1.0
+34.0,immunology and microbiology,35.0,next-generation sequencing,Undirected,1.0
+36.0,genetics,5.0,"biochemistry, genetics and molecular biology",Undirected,4.0
+36.0,genetics,2.0,health sciences,Undirected,1.0
+36.0,genetics,6.0,life sciences,Undirected,4.0
+36.0,genetics,1.0,medicine,Undirected,1.0
+36.0,genetics,37.0,cancer,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",37.0,cancer,Undirected,1.0
+2.0,health sciences,37.0,cancer,Undirected,1.0
+6.0,life sciences,37.0,cancer,Undirected,1.0
+1.0,medicine,37.0,cancer,Undirected,1.0
+38.0,substancerelateddisorders,2.0,health sciences,Undirected,5.0
+38.0,substancerelateddisorders,7.0,medical and health sciences,Undirected,2.0
+17.0,nutritionalsciences,39.0,nutrition and dietetics,Undirected,4.0
+40.0,chemistry,17.0,nutritionalsciences,Undirected,5.0
+40.0,chemistry,32.0,physical sciences,Undirected,7.0
+40.0,chemistry,41.0,chemical sciences,Undirected,3.0
+17.0,nutritionalsciences,32.0,physical sciences,Undirected,6.0
+17.0,nutritionalsciences,41.0,chemical sciences,Undirected,3.0
+32.0,physical sciences,41.0,chemical sciences,Undirected,5.0
+17.0,nutritionalsciences,1.0,medicine,Undirected,7.0
+17.0,nutritionalsciences,7.0,medical and health sciences,Undirected,6.0
+1.0,medicine,14.0,nursing,Undirected,13.0
+14.0,nursing,7.0,medical and health sciences,Undirected,1.0
+1.0,medicine,32.0,physical sciences,Undirected,49.0
+32.0,physical sciences,32.0,physical sciences,Undirected,25.0
+32.0,physical sciences,43.0,astronomical and space sciences,Undirected,2.0
+8.0,general,15.0,multidisciplinary,Undirected,8.0
+44.0,environmentalhealth,12.0,agricultural and biological sciences,Undirected,1.0
+44.0,environmentalhealth,6.0,life sciences,Undirected,2.0
+44.0,environmentalhealth,45.0,ecological applications,Undirected,1.0
+12.0,agricultural and biological sciences,45.0,ecological applications,Undirected,1.0
+6.0,life sciences,45.0,ecological applications,Undirected,1.0
+46.0,neoplasms,5.0,"biochemistry, genetics and molecular biology",Undirected,4.0
+46.0,neoplasms,2.0,health sciences,Undirected,6.0
+46.0,neoplasms,6.0,life sciences,Undirected,4.0
+46.0,neoplasms,1.0,medicine,Undirected,5.0
+46.0,neoplasms,47.0,oncology and carcinogenesis,Undirected,4.0
+5.0,"biochemistry, genetics and molecular biology",47.0,oncology and carcinogenesis,Undirected,4.0
+2.0,health sciences,47.0,oncology and carcinogenesis,Undirected,5.0
+6.0,life sciences,47.0,oncology and carcinogenesis,Undirected,4.0
+1.0,medicine,47.0,oncology and carcinogenesis,Undirected,4.0
+48.0,complementarytherapies,1.0,medicine,Undirected,3.0
+48.0,complementarytherapies,2.0,health sciences,Undirected,3.0
+48.0,complementarytherapies,49.0,complementary and alternative medicine,Undirected,3.0
+1.0,medicine,49.0,complementary and alternative medicine,Undirected,3.0
+2.0,health sciences,49.0,complementary and alternative medicine,Undirected,3.0
+18.0,social sciences,50.0,economics,Undirected,2.0
+51.0,communicablediseases,1.0,medicine,Undirected,6.0
+51.0,communicablediseases,2.0,health sciences,Undirected,7.0
+51.0,communicablediseases,52.0,medical microbiology,Undirected,2.0
+1.0,medicine,52.0,medical microbiology,Undirected,2.0
+2.0,health sciences,52.0,medical microbiology,Undirected,3.0
+10.0,science,53.0,archaeology,Undirected,1.0
+10.0,science,54.0,sleep,Undirected,1.0
+55.0,biology,10.0,science,Undirected,3.0
+55.0,biology,15.0,multidisciplinary,Undirected,3.0
+32.0,physical sciences,56.0,physics and astronomy,Undirected,6.0
+32.0,physical sciences,57.0,mathematical sciences,Undirected,8.0
+56.0,physics and astronomy,57.0,mathematical sciences,Undirected,4.0
+10.0,science,58.0,taxonomy,Undirected,1.0
+8.0,general,58.0,taxonomy,Undirected,1.0
+59.0,drugtherapy,2.0,health sciences,Undirected,6.0
+59.0,drugtherapy,60.0,pharmacology and pharmaceutical sciences,Undirected,1.0
+2.0,health sciences,60.0,pharmacology and pharmaceutical sciences,Undirected,5.0
+61.0,allergyandimmunology,2.0,health sciences,Undirected,42.0
+61.0,allergyandimmunology,62.0,immunology,Undirected,32.0
+2.0,health sciences,62.0,immunology,Undirected,32.0
+63.0,physiology,21.0,neurology,Undirected,1.0
+63.0,physiology,2.0,health sciences,Undirected,6.0
+63.0,physiology,7.0,medical and health sciences,Undirected,1.0
+16.0,behavioralsciences,7.0,medical and health sciences,Undirected,2.0
+10.0,science,65.0,tumour heterogeneity,Undirected,1.0
+8.0,general,65.0,tumour heterogeneity,Undirected,1.0
+66.0,endocrinology,67.0,metabolism,Undirected,2.0
+66.0,endocrinology,5.0,"biochemistry, genetics and molecular biology",Undirected,2.0
+66.0,endocrinology,2.0,health sciences,Undirected,3.0
+66.0,endocrinology,6.0,life sciences,Undirected,2.0
+66.0,endocrinology,1.0,medicine,Undirected,3.0
+66.0,endocrinology,28.0,clinical sciences,Undirected,1.0
+67.0,metabolism,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+67.0,metabolism,2.0,health sciences,Undirected,3.0
+67.0,metabolism,6.0,life sciences,Undirected,1.0
+67.0,metabolism,1.0,medicine,Undirected,3.0
+67.0,metabolism,28.0,clinical sciences,Undirected,2.0
+5.0,"biochemistry, genetics and molecular biology",28.0,clinical sciences,Undirected,2.0
+6.0,life sciences,28.0,clinical sciences,Undirected,4.0
+29.0,pediatrics,1.0,medicine,Undirected,6.0
+29.0,pediatrics,2.0,health sciences,Undirected,15.0
+29.0,pediatrics,7.0,medical and health sciences,Undirected,7.0
+29.0,pediatrics,11.0,psychiatry,Undirected,3.0
+68.0,psychopharmacology,2.0,health sciences,Undirected,3.0
+68.0,psychopharmacology,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,1.0
+68.0,psychopharmacology,6.0,life sciences,Undirected,1.0
+68.0,psychopharmacology,1.0,medicine,Undirected,1.0
+68.0,psychopharmacology,7.0,medical and health sciences,Undirected,3.0
+69.0,speechlanguagepathology,2.0,health sciences,Undirected,2.0
+69.0,speechlanguagepathology,28.0,clinical sciences,Undirected,2.0
+70.0,brain,21.0,neurology,Undirected,4.0
+70.0,brain,2.0,health sciences,Undirected,10.0
+70.0,brain,28.0,clinical sciences,Undirected,6.0
+51.0,communicablediseases,28.0,clinical sciences,Undirected,4.0
+4.0,internalmedicine,1.0,medicine,Undirected,6.0
+4.0,internalmedicine,2.0,health sciences,Undirected,6.0
+4.0,internalmedicine,7.0,medical and health sciences,Undirected,6.0
+17.0,nutritionalsciences,71.0,risk factors,Undirected,1.0
+1.0,medicine,71.0,risk factors,Undirected,1.0
+2.0,health sciences,71.0,risk factors,Undirected,1.0
+14.0,nursing,71.0,risk factors,Undirected,1.0
+24.0,sportsmedicine,1.0,medicine,Undirected,3.0
+24.0,sportsmedicine,72.0,human movement and sports science,Undirected,2.0
+1.0,medicine,27.0,health professions,Undirected,7.0
+1.0,medicine,72.0,human movement and sports science,Undirected,5.0
+27.0,health professions,72.0,human movement and sports science,Undirected,5.0
+2.0,health sciences,72.0,human movement and sports science,Undirected,5.0
+44.0,environmentalhealth,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+44.0,environmentalhealth,32.0,physical sciences,Undirected,17.0
+44.0,environmentalhealth,73.0,environmental science,Undirected,28.0
+44.0,environmentalhealth,41.0,chemical sciences,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",73.0,environmental science,Undirected,3.0
+5.0,"biochemistry, genetics and molecular biology",41.0,chemical sciences,Undirected,1.0
+32.0,physical sciences,73.0,environmental science,Undirected,6.0
+6.0,life sciences,73.0,environmental science,Undirected,6.0
+6.0,life sciences,41.0,chemical sciences,Undirected,1.0
+73.0,environmental science,41.0,chemical sciences,Undirected,2.0
+63.0,physiology,74.0,pathology,Undirected,1.0
+63.0,physiology,5.0,"biochemistry, genetics and molecular biology",Undirected,2.0
+63.0,physiology,6.0,life sciences,Undirected,2.0
+63.0,physiology,1.0,medicine,Undirected,5.0
+63.0,physiology,75.0,medical physiology,Undirected,1.0
+74.0,pathology,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+74.0,pathology,2.0,health sciences,Undirected,3.0
+74.0,pathology,6.0,life sciences,Undirected,1.0
+74.0,pathology,1.0,medicine,Undirected,2.0
+74.0,pathology,75.0,medical physiology,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",75.0,medical physiology,Undirected,1.0
+2.0,health sciences,75.0,medical physiology,Undirected,1.0
+6.0,life sciences,75.0,medical physiology,Undirected,1.0
+1.0,medicine,75.0,medical physiology,Undirected,1.0
+76.0,computationalbiology,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+76.0,computationalbiology,12.0,agricultural and biological sciences,Undirected,1.0
+76.0,computationalbiology,23.0,neuroscience,Undirected,1.0
+76.0,computationalbiology,32.0,physical sciences,Undirected,1.0
+76.0,computationalbiology,6.0,life sciences,Undirected,1.0
+76.0,computationalbiology,77.0,computer science,Undirected,1.0
+76.0,computationalbiology,78.0,mathematics,Undirected,1.0
+76.0,computationalbiology,73.0,environmental science,Undirected,1.0
+76.0,computationalbiology,79.0,biological sciences,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",23.0,neuroscience,Undirected,2.0
+5.0,"biochemistry, genetics and molecular biology",77.0,computer science,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",78.0,mathematics,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",79.0,biological sciences,Undirected,12.0
+12.0,agricultural and biological sciences,23.0,neuroscience,Undirected,1.0
+12.0,agricultural and biological sciences,32.0,physical sciences,Undirected,5.0
+12.0,agricultural and biological sciences,77.0,computer science,Undirected,1.0
+12.0,agricultural and biological sciences,78.0,mathematics,Undirected,1.0
+12.0,agricultural and biological sciences,73.0,environmental science,Undirected,5.0
+12.0,agricultural and biological sciences,79.0,biological sciences,Undirected,5.0
+23.0,neuroscience,32.0,physical sciences,Undirected,1.0
+23.0,neuroscience,77.0,computer science,Undirected,1.0
+23.0,neuroscience,78.0,mathematics,Undirected,1.0
+23.0,neuroscience,73.0,environmental science,Undirected,1.0
+23.0,neuroscience,79.0,biological sciences,Undirected,2.0
+32.0,physical sciences,77.0,computer science,Undirected,1.0
+32.0,physical sciences,78.0,mathematics,Undirected,1.0
+32.0,physical sciences,79.0,biological sciences,Undirected,3.0
+6.0,life sciences,77.0,computer science,Undirected,1.0
+6.0,life sciences,78.0,mathematics,Undirected,1.0
+6.0,life sciences,79.0,biological sciences,Undirected,14.0
+77.0,computer science,78.0,mathematics,Undirected,1.0
+77.0,computer science,73.0,environmental science,Undirected,1.0
+77.0,computer science,79.0,biological sciences,Undirected,1.0
+78.0,mathematics,73.0,environmental science,Undirected,1.0
+78.0,mathematics,79.0,biological sciences,Undirected,1.0
+73.0,environmental science,79.0,biological sciences,Undirected,7.0
+80.0,epidemiology,1.0,medicine,Undirected,4.0
+80.0,epidemiology,2.0,health sciences,Undirected,5.0
+80.0,epidemiology,7.0,medical and health sciences,Undirected,2.0
+11.0,psychiatry,19.0,psychology,Undirected,7.0
+19.0,psychology,19.0,psychology,Undirected,2.0
+1.0,medicine,39.0,nutrition and dietetics,Undirected,3.0
+2.0,health sciences,39.0,nutrition and dietetics,Undirected,7.0
+14.0,nursing,39.0,nutrition and dietetics,Undirected,3.0
+82.0,ophthalmology,2.0,health sciences,Undirected,1.0
+82.0,ophthalmology,28.0,clinical sciences,Undirected,1.0
+73.0,environmental science,15.0,multidisciplinary,Undirected,24.0
+44.0,environmentalhealth,15.0,multidisciplinary,Undirected,28.0
+83.0,pharmacology,84.0,gastroenterology,Undirected,1.0
+83.0,pharmacology,59.0,drugtherapy,Undirected,2.0
+83.0,pharmacology,1.0,medicine,Undirected,2.0
+83.0,pharmacology,2.0,health sciences,Undirected,5.0
+83.0,pharmacology,28.0,clinical sciences,Undirected,1.0
+84.0,gastroenterology,59.0,drugtherapy,Undirected,1.0
+84.0,gastroenterology,1.0,medicine,Undirected,4.0
+84.0,gastroenterology,2.0,health sciences,Undirected,4.0
+84.0,gastroenterology,28.0,clinical sciences,Undirected,4.0
+59.0,drugtherapy,1.0,medicine,Undirected,2.0
+59.0,drugtherapy,28.0,clinical sciences,Undirected,1.0
+23.0,neuroscience,28.0,clinical sciences,Undirected,1.0
+10.0,science,85.0,type 2 diabetes,Undirected,1.0
+74.0,pathology,21.0,neurology,Undirected,1.0
+74.0,pathology,28.0,clinical sciences,Undirected,1.0
+32.0,physical sciences,15.0,multidisciplinary,Undirected,11.0
+70.0,brain,86.0,neurosciences,Undirected,4.0
+2.0,health sciences,86.0,neurosciences,Undirected,4.0
+87.0,healthservicesresearch,1.0,medicine,Undirected,12.0
+87.0,healthservicesresearch,2.0,health sciences,Undirected,7.0
+87.0,healthservicesresearch,88.0,public health and health services,Undirected,2.0
+1.0,medicine,88.0,public health and health services,Undirected,20.0
+2.0,health sciences,88.0,public health and health services,Undirected,14.0
+44.0,environmentalhealth,89.0,environmental sciences,Undirected,11.0
+32.0,physical sciences,89.0,environmental sciences,Undirected,13.0
+14.0,nursing,90.0,obstetrics,Undirected,7.0
+90.0,obstetrics,1.0,medicine,Undirected,5.0
+90.0,obstetrics,2.0,health sciences,Undirected,6.0
+14.0,nursing,28.0,clinical sciences,Undirected,2.0
+90.0,obstetrics,28.0,clinical sciences,Undirected,3.0
+11.0,psychiatry,28.0,clinical sciences,Undirected,4.0
+19.0,psychology,28.0,clinical sciences,Undirected,4.0
+38.0,substancerelateddisorders,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,1.0
+38.0,substancerelateddisorders,6.0,life sciences,Undirected,1.0
+38.0,substancerelateddisorders,1.0,medicine,Undirected,2.0
+38.0,substancerelateddisorders,28.0,clinical sciences,Undirected,2.0
+22.0,"pharmacology, toxicology and pharmaceutics",28.0,clinical sciences,Undirected,1.0
+29.0,pediatrics,16.0,behavioralsciences,Undirected,1.0
+91.0,veterinary,2.0,health sciences,Undirected,5.0
+91.0,veterinary,6.0,life sciences,Undirected,3.0
+91.0,veterinary,12.0,agricultural and biological sciences,Undirected,2.0
+91.0,veterinary,13.0,zoology,Undirected,2.0
+2.0,health sciences,13.0,zoology,Undirected,2.0
+40.0,chemistry,15.0,multidisciplinary,Undirected,2.0
+90.0,obstetrics,92.0,gynecology,Undirected,3.0
+90.0,obstetrics,93.0,perinatology,Undirected,2.0
+92.0,gynecology,93.0,perinatology,Undirected,1.0
+92.0,gynecology,14.0,nursing,Undirected,2.0
+92.0,gynecology,2.0,health sciences,Undirected,3.0
+93.0,perinatology,14.0,nursing,Undirected,3.0
+93.0,perinatology,2.0,health sciences,Undirected,2.0
+87.0,healthservicesresearch,7.0,medical and health sciences,Undirected,5.0
+94.0,molecularbiology,95.0,geneticsmedical,Undirected,1.0
+94.0,molecularbiology,5.0,"biochemistry, genetics and molecular biology",Undirected,4.0
+94.0,molecularbiology,2.0,health sciences,Undirected,3.0
+94.0,molecularbiology,6.0,life sciences,Undirected,4.0
+94.0,molecularbiology,1.0,medicine,Undirected,5.0
+94.0,molecularbiology,79.0,biological sciences,Undirected,1.0
+95.0,geneticsmedical,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+95.0,geneticsmedical,2.0,health sciences,Undirected,1.0
+95.0,geneticsmedical,6.0,life sciences,Undirected,1.0
+95.0,geneticsmedical,1.0,medicine,Undirected,1.0
+95.0,geneticsmedical,79.0,biological sciences,Undirected,1.0
+2.0,health sciences,79.0,biological sciences,Undirected,6.0
+1.0,medicine,79.0,biological sciences,Undirected,5.0
+97.0,geriatrics,98.0,socialsciences,Undirected,1.0
+97.0,geriatrics,19.0,psychology,Undirected,1.0
+97.0,geriatrics,2.0,health sciences,Undirected,4.0
+97.0,geriatrics,28.0,clinical sciences,Undirected,2.0
+98.0,socialsciences,19.0,psychology,Undirected,1.0
+98.0,socialsciences,2.0,health sciences,Undirected,1.0
+98.0,socialsciences,28.0,clinical sciences,Undirected,1.0
+83.0,pharmacology,60.0,pharmacology and pharmaceutical sciences,Undirected,3.0
+80.0,epidemiology,88.0,public health and health services,Undirected,2.0
+66.0,endocrinology,99.0,dyslipidaemias,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",99.0,dyslipidaemias,Undirected,1.0
+2.0,health sciences,99.0,dyslipidaemias,Undirected,1.0
+6.0,life sciences,99.0,dyslipidaemias,Undirected,1.0
+1.0,medicine,99.0,dyslipidaemias,Undirected,1.0
+18.0,social sciences,53.0,archaeology,Undirected,5.0
+18.0,social sciences,100.0,cognitive science,Undirected,1.0
+10.0,science,101.0,protein vaccines,Undirected,1.0
+8.0,general,101.0,protein vaccines,Undirected,1.0
+102.0,rheumatology,2.0,health sciences,Undirected,2.0
+102.0,rheumatology,28.0,clinical sciences,Undirected,1.0
+55.0,biology,44.0,environmentalhealth,Undirected,5.0
+55.0,biology,73.0,environmental science,Undirected,6.0
+55.0,biology,79.0,biological sciences,Undirected,8.0
+44.0,environmentalhealth,79.0,biological sciences,Undirected,5.0
+73.0,environmental science,89.0,environmental sciences,Undirected,10.0
+20.0,psychophysiology,79.0,biological sciences,Undirected,1.0
+67.0,metabolism,25.0,orthopedics,Undirected,2.0
+25.0,orthopedics,1.0,medicine,Undirected,3.0
+25.0,orthopedics,66.0,endocrinology,Undirected,1.0
+59.0,drugtherapy,103.0,analytical chemistry,Undirected,3.0
+2.0,health sciences,103.0,analytical chemistry,Undirected,3.0
+1.0,medicine,61.0,allergyandimmunology,Undirected,10.0
+61.0,allergyandimmunology,7.0,medical and health sciences,Undirected,8.0
+32.0,physical sciences,104.0,"classical and quantum gravitation, relativity theory",Undirected,1.0
+10.0,science,105.0,obesity,Undirected,1.0
+55.0,biology,5.0,"biochemistry, genetics and molecular biology",Undirected,2.0
+55.0,biology,1.0,medicine,Undirected,1.0
+55.0,biology,12.0,agricultural and biological sciences,Undirected,4.0
+55.0,biology,34.0,immunology and microbiology,Undirected,1.0
+55.0,biology,2.0,health sciences,Undirected,1.0
+55.0,biology,32.0,physical sciences,Undirected,2.0
+55.0,biology,6.0,life sciences,Undirected,4.0
+1.0,medicine,34.0,immunology and microbiology,Undirected,3.0
+1.0,medicine,73.0,environmental science,Undirected,1.0
+12.0,agricultural and biological sciences,34.0,immunology and microbiology,Undirected,1.0
+34.0,immunology and microbiology,2.0,health sciences,Undirected,3.0
+34.0,immunology and microbiology,73.0,environmental science,Undirected,1.0
+34.0,immunology and microbiology,79.0,biological sciences,Undirected,2.0
+2.0,health sciences,32.0,physical sciences,Undirected,1.0
+2.0,health sciences,73.0,environmental science,Undirected,1.0
+106.0,criticalcare,1.0,medicine,Undirected,2.0
+106.0,criticalcare,2.0,health sciences,Undirected,4.0
+106.0,criticalcare,107.0,anesthesiology,Undirected,1.0
+1.0,medicine,107.0,anesthesiology,Undirected,1.0
+2.0,health sciences,107.0,anesthesiology,Undirected,1.0
+91.0,veterinary,108.0,veterinary sciences,Undirected,2.0
+2.0,health sciences,108.0,veterinary sciences,Undirected,2.0
+10.0,science,37.0,cancer,Undirected,1.0
+8.0,general,37.0,cancer,Undirected,1.0
+29.0,pediatrics,19.0,psychology,Undirected,5.0
+73.0,environmental science,45.0,ecological applications,Undirected,5.0
+109.0,reproductivemedicine,55.0,biology,Undirected,1.0
+109.0,reproductivemedicine,12.0,agricultural and biological sciences,Undirected,1.0
+109.0,reproductivemedicine,6.0,life sciences,Undirected,1.0
+109.0,reproductivemedicine,89.0,environmental sciences,Undirected,1.0
+55.0,biology,89.0,environmental sciences,Undirected,1.0
+12.0,agricultural and biological sciences,89.0,environmental sciences,Undirected,2.0
+6.0,life sciences,89.0,environmental sciences,Undirected,3.0
+70.0,brain,1.0,medicine,Undirected,2.0
+0.0,cardiology,110.0,diagnosticimaging,Undirected,4.0
+110.0,diagnosticimaging,1.0,medicine,Undirected,3.0
+110.0,diagnosticimaging,2.0,health sciences,Undirected,4.0
+110.0,diagnosticimaging,3.0,cardiovascular medicine and haematology,Undirected,3.0
+111.0,radiology,1.0,medicine,Undirected,2.0
+111.0,radiology,2.0,health sciences,Undirected,2.0
+111.0,radiology,28.0,clinical sciences,Undirected,2.0
+63.0,physiology,10.0,science,Undirected,1.0
+63.0,physiology,112.0,cellbiology,Undirected,1.0
+63.0,physiology,113.0,biochemistry and cell biology,Undirected,1.0
+10.0,science,112.0,cellbiology,Undirected,1.0
+10.0,science,113.0,biochemistry and cell biology,Undirected,1.0
+112.0,cellbiology,1.0,medicine,Undirected,1.0
+112.0,cellbiology,2.0,health sciences,Undirected,1.0
+112.0,cellbiology,113.0,biochemistry and cell biology,Undirected,2.0
+1.0,medicine,113.0,biochemistry and cell biology,Undirected,1.0
+2.0,health sciences,113.0,biochemistry and cell biology,Undirected,1.0
+10.0,science,7.0,medical and health sciences,Undirected,2.0
+29.0,pediatrics,61.0,allergyandimmunology,Undirected,2.0
+29.0,pediatrics,62.0,immunology,Undirected,2.0
+94.0,molecularbiology,7.0,medical and health sciences,Undirected,1.0
+21.0,neurology,86.0,neurosciences,Undirected,2.0
+16.0,behavioralsciences,21.0,neurology,Undirected,4.0
+16.0,behavioralsciences,28.0,clinical sciences,Undirected,4.0
+11.0,psychiatry,1.0,medicine,Undirected,6.0
+9.0,publichealth,44.0,environmentalhealth,Undirected,4.0
+9.0,publichealth,15.0,multidisciplinary,Undirected,4.0
+44.0,environmentalhealth,2.0,health sciences,Undirected,4.0
+10.0,science,114.0,saxs,Undirected,1.0
+40.0,chemistry,10.0,science,Undirected,2.0
+40.0,chemistry,115.0,materials science,Undirected,2.0
+40.0,chemistry,56.0,physics and astronomy,Undirected,2.0
+40.0,chemistry,40.0,chemistry,Undirected,1.0
+40.0,chemistry,33.0,engineering,Undirected,2.0
+40.0,chemistry,116.0,drug development,Undirected,2.0
+10.0,science,115.0,materials science,Undirected,1.0
+10.0,science,32.0,physical sciences,Undirected,1.0
+10.0,science,56.0,physics and astronomy,Undirected,1.0
+10.0,science,33.0,engineering,Undirected,1.0
+10.0,science,116.0,drug development,Undirected,1.0
+115.0,materials science,32.0,physical sciences,Undirected,1.0
+115.0,materials science,56.0,physics and astronomy,Undirected,1.0
+115.0,materials science,33.0,engineering,Undirected,1.0
+115.0,materials science,116.0,drug development,Undirected,1.0
+32.0,physical sciences,116.0,drug development,Undirected,1.0
+56.0,physics and astronomy,33.0,engineering,Undirected,1.0
+56.0,physics and astronomy,116.0,drug development,Undirected,1.0
+33.0,engineering,116.0,drug development,Undirected,1.0
+18.0,social sciences,118.0,political science,Undirected,2.0
+18.0,social sciences,119.0,specialist studies in education,Undirected,1.0
+32.0,physical sciences,120.0,high-energy astrophysics,Undirected,1.0
+121.0,otolaryngology,14.0,nursing,Undirected,1.0
+121.0,otolaryngology,2.0,health sciences,Undirected,2.0
+121.0,otolaryngology,27.0,health professions,Undirected,1.0
+121.0,otolaryngology,1.0,medicine,Undirected,2.0
+121.0,otolaryngology,28.0,clinical sciences,Undirected,1.0
+14.0,nursing,27.0,health professions,Undirected,1.0
+32.0,physical sciences,13.0,zoology,Undirected,2.0
+21.0,neurology,123.0,dementia,Undirected,1.0
+1.0,medicine,123.0,dementia,Undirected,1.0
+2.0,health sciences,123.0,dementia,Undirected,1.0
+97.0,geriatrics,21.0,neurology,Undirected,1.0
+63.0,physiology,27.0,health professions,Undirected,3.0
+63.0,physiology,72.0,human movement and sports science,Undirected,3.0
+124.0,biochemistry,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+124.0,biochemistry,6.0,life sciences,Undirected,1.0
+124.0,biochemistry,113.0,biochemistry and cell biology,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",113.0,biochemistry and cell biology,Undirected,2.0
+6.0,life sciences,113.0,biochemistry and cell biology,Undirected,2.0
+125.0,neurosurgery,2.0,health sciences,Undirected,1.0
+125.0,neurosurgery,28.0,clinical sciences,Undirected,1.0
+55.0,biology,126.0,organic chemistry,Undirected,1.0
+32.0,physical sciences,126.0,organic chemistry,Undirected,1.0
+32.0,physical sciences,45.0,ecological applications,Undirected,1.0
+97.0,geriatrics,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+97.0,geriatrics,6.0,life sciences,Undirected,1.0
+97.0,geriatrics,1.0,medicine,Undirected,2.0
+97.0,geriatrics,127.0,geriatrics/gerontology,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",127.0,geriatrics/gerontology,Undirected,1.0
+2.0,health sciences,127.0,geriatrics/gerontology,Undirected,1.0
+6.0,life sciences,127.0,geriatrics/gerontology,Undirected,1.0
+1.0,medicine,127.0,geriatrics/gerontology,Undirected,1.0
+38.0,substancerelateddisorders,88.0,public health and health services,Undirected,1.0
+83.0,pharmacology,128.0,mechanism of action,Undirected,1.0
+59.0,drugtherapy,128.0,mechanism of action,Undirected,1.0
+1.0,medicine,128.0,mechanism of action,Undirected,1.0
+2.0,health sciences,128.0,mechanism of action,Undirected,1.0
+63.0,physiology,12.0,agricultural and biological sciences,Undirected,1.0
+63.0,physiology,79.0,biological sciences,Undirected,1.0
+55.0,biology,129.0,embryology,Undirected,1.0
+55.0,biology,18.0,social sciences,Undirected,1.0
+129.0,embryology,18.0,social sciences,Undirected,1.0
+129.0,embryology,79.0,biological sciences,Undirected,1.0
+18.0,social sciences,79.0,biological sciences,Undirected,1.0
+18.0,social sciences,130.0,"banking, finance and investment",Undirected,2.0
+131.0,healthservices,98.0,socialsciences,Undirected,1.0
+131.0,healthservices,18.0,social sciences,Undirected,1.0
+131.0,healthservices,88.0,public health and health services,Undirected,2.0
+98.0,socialsciences,18.0,social sciences,Undirected,1.0
+98.0,socialsciences,88.0,public health and health services,Undirected,1.0
+18.0,social sciences,88.0,public health and health services,Undirected,1.0
+32.0,physical sciences,132.0,ecology,Undirected,1.0
+17.0,nutritionalsciences,21.0,neurology,Undirected,3.0
+87.0,healthservicesresearch,9.0,publichealth,Undirected,1.0
+9.0,publichealth,88.0,public health and health services,Undirected,1.0
+121.0,otolaryngology,133.0,head and neck surgery,Undirected,1.0
+1.0,medicine,133.0,head and neck surgery,Undirected,1.0
+2.0,health sciences,133.0,head and neck surgery,Undirected,1.0
+122.0,dermatology,1.0,medicine,Undirected,1.0
+122.0,dermatology,2.0,health sciences,Undirected,1.0
+122.0,dermatology,28.0,clinical sciences,Undirected,1.0
+26.0,physicalandrehabilitationmedicine,1.0,medicine,Undirected,3.0
+12.0,agricultural and biological sciences,134.0,evolutionary biology,Undirected,1.0
+6.0,life sciences,134.0,evolutionary biology,Undirected,1.0
+51.0,communicablediseases,80.0,epidemiology,Undirected,1.0
+51.0,communicablediseases,88.0,public health and health services,Undirected,1.0
+135.0,audiology,27.0,health professions,Undirected,1.0
+135.0,audiology,2.0,health sciences,Undirected,1.0
+135.0,audiology,136.0,other medical and health sciences,Undirected,1.0
+27.0,health professions,136.0,other medical and health sciences,Undirected,1.0
+2.0,health sciences,136.0,other medical and health sciences,Undirected,2.0
+44.0,environmentalhealth,132.0,ecology,Undirected,2.0
+73.0,environmental science,132.0,ecology,Undirected,2.0
+70.0,brain,6.0,life sciences,Undirected,2.0
+70.0,brain,23.0,neuroscience,Undirected,2.0
+6.0,life sciences,86.0,neurosciences,Undirected,2.0
+23.0,neuroscience,86.0,neurosciences,Undirected,2.0
+112.0,cellbiology,5.0,"biochemistry, genetics and molecular biology",Undirected,7.0
+112.0,cellbiology,6.0,life sciences,Undirected,7.0
+112.0,cellbiology,79.0,biological sciences,Undirected,6.0
+1.0,medicine,137.0,maternal and child health,Undirected,1.0
+2.0,health sciences,137.0,maternal and child health,Undirected,1.0
+46.0,neoplasms,80.0,epidemiology,Undirected,1.0
+46.0,neoplasms,42.0,biomedicine,Undirected,1.0
+80.0,epidemiology,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+80.0,epidemiology,6.0,life sciences,Undirected,1.0
+80.0,epidemiology,42.0,biomedicine,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",42.0,biomedicine,Undirected,1.0
+2.0,health sciences,42.0,biomedicine,Undirected,2.0
+6.0,life sciences,42.0,biomedicine,Undirected,2.0
+1.0,medicine,42.0,biomedicine,Undirected,1.0
+29.0,pediatrics,28.0,clinical sciences,Undirected,1.0
+94.0,molecularbiology,138.0,viral infection,Undirected,1.0
+1.0,medicine,138.0,viral infection,Undirected,2.0
+5.0,"biochemistry, genetics and molecular biology",138.0,viral infection,Undirected,1.0
+2.0,health sciences,138.0,viral infection,Undirected,1.0
+6.0,life sciences,138.0,viral infection,Undirected,1.0
+94.0,molecularbiology,55.0,biology,Undirected,1.0
+94.0,molecularbiology,12.0,agricultural and biological sciences,Undirected,1.0
+94.0,molecularbiology,36.0,genetics,Undirected,1.0
+55.0,biology,36.0,genetics,Undirected,1.0
+12.0,agricultural and biological sciences,36.0,genetics,Undirected,1.0
+61.0,allergyandimmunology,91.0,veterinary,Undirected,1.0
+61.0,allergyandimmunology,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+61.0,allergyandimmunology,6.0,life sciences,Undirected,2.0
+61.0,allergyandimmunology,34.0,immunology and microbiology,Undirected,2.0
+61.0,allergyandimmunology,79.0,biological sciences,Undirected,1.0
+91.0,veterinary,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+91.0,veterinary,1.0,medicine,Undirected,1.0
+91.0,veterinary,34.0,immunology and microbiology,Undirected,1.0
+91.0,veterinary,79.0,biological sciences,Undirected,1.0
+139.0,osteopathicmedicine,1.0,medicine,Undirected,1.0
+139.0,osteopathicmedicine,2.0,health sciences,Undirected,1.0
+139.0,osteopathicmedicine,136.0,other medical and health sciences,Undirected,1.0
+1.0,medicine,136.0,other medical and health sciences,Undirected,1.0
+81.0,generalsurgery,1.0,medicine,Undirected,3.0
+81.0,generalsurgery,2.0,health sciences,Undirected,3.0
+81.0,generalsurgery,28.0,clinical sciences,Undirected,3.0
+11.0,psychiatry,16.0,behavioralsciences,Undirected,1.0
+140.0,pulmonarymedicine,1.0,medicine,Undirected,2.0
+140.0,pulmonarymedicine,2.0,health sciences,Undirected,2.0
+140.0,pulmonarymedicine,7.0,medical and health sciences,Undirected,1.0
+70.0,brain,42.0,biomedicine,Undirected,1.0
+141.0,earth and planetary sciences,32.0,physical sciences,Undirected,2.0
+141.0,earth and planetary sciences,56.0,physics and astronomy,Undirected,1.0
+141.0,earth and planetary sciences,43.0,astronomical and space sciences,Undirected,1.0
+56.0,physics and astronomy,43.0,astronomical and space sciences,Undirected,1.0
+29.0,pediatrics,142.0,paediatrics and reproductive medicine,Undirected,1.0
+1.0,medicine,142.0,paediatrics and reproductive medicine,Undirected,1.0
+2.0,health sciences,142.0,paediatrics and reproductive medicine,Undirected,1.0
+131.0,healthservices,1.0,medicine,Undirected,1.0
+131.0,healthservices,2.0,health sciences,Undirected,1.0
+17.0,nutritionalsciences,143.0,food sciences,Undirected,1.0
+32.0,physical sciences,143.0,food sciences,Undirected,1.0
+106.0,criticalcare,14.0,nursing,Undirected,4.0
+18.0,social sciences,144.0,sociology,Undirected,2.0
+21.0,neurology,145.0,medicine & public health,Undirected,1.0
+1.0,medicine,145.0,medicine & public health,Undirected,1.0
+2.0,health sciences,145.0,medicine & public health,Undirected,1.0
+29.0,pediatrics,18.0,social sciences,Undirected,1.0
+11.0,psychiatry,18.0,social sciences,Undirected,1.0
+18.0,social sciences,1.0,medicine,Undirected,1.0
+18.0,social sciences,7.0,medical and health sciences,Undirected,1.0
+19.0,psychology,1.0,medicine,Undirected,1.0
+19.0,psychology,7.0,medical and health sciences,Undirected,1.0
+32.0,physical sciences,146.0,cosmology,Undirected,1.0
+147.0,botany,1.0,medicine,Undirected,1.0
+147.0,botany,2.0,health sciences,Undirected,1.0
+147.0,botany,79.0,biological sciences,Undirected,1.0
+92.0,gynecology,81.0,generalsurgery,Undirected,2.0
+92.0,gynecology,1.0,medicine,Undirected,2.0
+92.0,gynecology,28.0,clinical sciences,Undirected,2.0
+90.0,obstetrics,81.0,generalsurgery,Undirected,2.0
+10.0,science,148.0,neural circuits,Undirected,1.0
+8.0,general,148.0,neural circuits,Undirected,1.0
+18.0,social sciences,149.0,education systems,Undirected,2.0
+11.0,psychiatry,150.0,autism spectrum disorders,Undirected,1.0
+61.0,allergyandimmunology,28.0,clinical sciences,Undirected,1.0
+36.0,genetics,16.0,behavioralsciences,Undirected,1.0
+36.0,genetics,70.0,brain,Undirected,1.0
+36.0,genetics,23.0,neuroscience,Undirected,1.0
+36.0,genetics,79.0,biological sciences,Undirected,1.0
+16.0,behavioralsciences,70.0,brain,Undirected,1.0
+16.0,behavioralsciences,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+16.0,behavioralsciences,6.0,life sciences,Undirected,1.0
+16.0,behavioralsciences,23.0,neuroscience,Undirected,1.0
+16.0,behavioralsciences,79.0,biological sciences,Undirected,1.0
+70.0,brain,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+70.0,brain,79.0,biological sciences,Undirected,1.0
+44.0,environmentalhealth,151.0,animal ecology,Undirected,1.0
+73.0,environmental science,151.0,animal ecology,Undirected,1.0
+24.0,sportsmedicine,7.0,medical and health sciences,Undirected,1.0
+27.0,health professions,7.0,medical and health sciences,Undirected,1.0
+106.0,criticalcare,28.0,clinical sciences,Undirected,1.0
+73.0,environmental science,13.0,zoology,Undirected,1.0
+152.0,hospitals,1.0,medicine,Undirected,1.0
+152.0,hospitals,2.0,health sciences,Undirected,2.0
+152.0,hospitals,28.0,clinical sciences,Undirected,1.0
+32.0,physical sciences,153.0,"atomic, molecular, nuclear, particle and plasma physics",Undirected,1.0
+152.0,hospitals,154.0,pharmacy,Undirected,1.0
+152.0,hospitals,60.0,pharmacology and pharmaceutical sciences,Undirected,1.0
+154.0,pharmacy,2.0,health sciences,Undirected,1.0
+154.0,pharmacy,60.0,pharmacology and pharmaceutical sciences,Undirected,1.0
+155.0,biophysics,156.0,biomedicalengineering,Undirected,1.0
+155.0,biophysics,32.0,physical sciences,Undirected,1.0
+155.0,biophysics,33.0,engineering,Undirected,1.0
+156.0,biomedicalengineering,32.0,physical sciences,Undirected,1.0
+156.0,biomedicalengineering,33.0,engineering,Undirected,1.0
+102.0,rheumatology,1.0,medicine,Undirected,1.0
+110.0,diagnosticimaging,157.0,biomedical engineering,Undirected,1.0
+2.0,health sciences,157.0,biomedical engineering,Undirected,1.0
+90.0,obstetrics,48.0,complementarytherapies,Undirected,1.0
+90.0,obstetrics,49.0,complementary and alternative medicine,Undirected,1.0
+93.0,perinatology,48.0,complementarytherapies,Undirected,1.0
+93.0,perinatology,1.0,medicine,Undirected,1.0
+93.0,perinatology,49.0,complementary and alternative medicine,Undirected,1.0
+14.0,nursing,48.0,complementarytherapies,Undirected,1.0
+14.0,nursing,49.0,complementary and alternative medicine,Undirected,1.0
+158.0,nephrology,1.0,medicine,Undirected,2.0
+158.0,nephrology,2.0,health sciences,Undirected,2.0
+158.0,nephrology,28.0,clinical sciences,Undirected,1.0
+46.0,neoplasms,19.0,psychology,Undirected,1.0
+19.0,psychology,47.0,oncology and carcinogenesis,Undirected,1.0
+83.0,pharmacology,6.0,life sciences,Undirected,1.0
+83.0,pharmacology,22.0,"pharmacology, toxicology and pharmaceutics",Undirected,1.0
+46.0,neoplasms,28.0,clinical sciences,Undirected,1.0
+6.0,life sciences,62.0,immunology,Undirected,1.0
+1.0,medicine,62.0,immunology,Undirected,1.0
+34.0,immunology and microbiology,62.0,immunology,Undirected,1.0
+63.0,physiology,26.0,physicalandrehabilitationmedicine,Undirected,1.0
+26.0,physicalandrehabilitationmedicine,72.0,human movement and sports science,Undirected,1.0
+147.0,botany,112.0,cellbiology,Undirected,1.0
+147.0,botany,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+147.0,botany,12.0,agricultural and biological sciences,Undirected,1.0
+147.0,botany,6.0,life sciences,Undirected,1.0
+147.0,botany,113.0,biochemistry and cell biology,Undirected,1.0
+112.0,cellbiology,12.0,agricultural and biological sciences,Undirected,1.0
+12.0,agricultural and biological sciences,113.0,biochemistry and cell biology,Undirected,1.0
+32.0,physical sciences,159.0,electrical and electronic engineering,Undirected,1.0
+25.0,orthopedics,5.0,"biochemistry, genetics and molecular biology",Undirected,1.0
+25.0,orthopedics,6.0,life sciences,Undirected,1.0
+21.0,neurology,34.0,immunology and microbiology,Undirected,1.0
+21.0,neurology,42.0,biomedicine,Undirected,1.0
+34.0,immunology and microbiology,23.0,neuroscience,Undirected,1.0
+34.0,immunology and microbiology,42.0,biomedicine,Undirected,1.0
+23.0,neuroscience,42.0,biomedicine,Undirected,1.0
+10.0,science,160.0,nanoparticles,Undirected,1.0
+8.0,general,160.0,nanoparticles,Undirected,1.0
+11.0,psychiatry,21.0,neurology,Undirected,1.0
+21.0,neurology,161.0,alzheimer's disease,Undirected,1.0
+6.0,life sciences,161.0,alzheimer's disease,Undirected,1.0
+23.0,neuroscience,161.0,alzheimer's disease,Undirected,1.0
+158.0,nephrology,162.0,diabetic nephropathy,Undirected,1.0
+1.0,medicine,162.0,diabetic nephropathy,Undirected,1.0
+2.0,health sciences,162.0,diabetic nephropathy,Undirected,1.0
+141.0,earth and planetary sciences,163.0,carbon cycle,Undirected,1.0
+32.0,physical sciences,163.0,carbon cycle,Undirected,1.0
+164.0,microbiology,6.0,life sciences,Undirected,1.0
+164.0,microbiology,34.0,immunology and microbiology,Undirected,1.0
+164.0,microbiology,15.0,multidisciplinary,Undirected,1.0
+34.0,immunology and microbiology,15.0,multidisciplinary,Undirected,1.0
+0.0,cardiology,165.0,inflammation,Undirected,1.0
+1.0,medicine,165.0,inflammation,Undirected,1.0
+2.0,health sciences,165.0,inflammation,Undirected,1.0
+135.0,audiology,69.0,speechlanguagepathology,Undirected,1.0
+135.0,audiology,32.0,physical sciences,Undirected,1.0
+135.0,audiology,15.0,multidisciplinary,Undirected,1.0
+69.0,speechlanguagepathology,32.0,physical sciences,Undirected,1.0
+69.0,speechlanguagepathology,15.0,multidisciplinary,Undirected,1.0
+140.0,pulmonarymedicine,28.0,clinical sciences,Undirected,1.0
+36.0,genetics,89.0,environmental sciences,Undirected,1.0
+5.0,"biochemistry, genetics and molecular biology",89.0,environmental sciences,Undirected,1.0
+83.0,pharmacology,16.0,behavioralsciences,Undirected,1.0
+16.0,behavioralsciences,60.0,pharmacology and pharmaceutical sciences,Undirected,1.0
+32.0,physical sciences,166.0,artificial intelligence and image processing,Undirected,1.0
+97.0,geriatrics,7.0,medical and health sciences,Undirected,1.0
+18.0,social sciences,167.0,demography,Undirected,1.0
+32.0,physical sciences,168.0,"astronomy, astrophysics and cosmology",Undirected,1.0
